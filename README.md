@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedrahadhossain)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedrahadhossain&show_icons=true&locale=en" alt="syedrahadhossain" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedrahadhossain&show_icons=true) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedrahadhossain&" alt="syedrahadhossain" /></p>
 
