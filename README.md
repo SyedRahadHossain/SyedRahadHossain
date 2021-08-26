@@ -35,3 +35,4 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedrahadhossain&show_icons=true&locale=en&layout=compact" alt="syedrahadhossain" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedrahadhossain&" alt="syedrahadhossain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedrahadhossain&show_icons=true&locale=en" alt="syedrahadhossain" /></p>
