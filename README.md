@@ -36,3 +36,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedrahadhossain&show_icons=true&locale=en&layout=compact" alt="syedrahadhossain" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedrahadhossain&" alt="syedrahadhossain" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedrahadhossain&show_icons=true&locale=en" alt="syedrahadhossain" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/syedrahadhossain)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedrahadhossain)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedrahadhossain)  
+
+
