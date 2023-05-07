@@ -39,5 +39,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syedrahadhossain&show_icons=true) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=syedrahadhossain)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedrahadhossain)  
