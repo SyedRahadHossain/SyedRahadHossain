@@ -95,7 +95,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="5">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="3">
 
 <!-- ============ STATS ============ -->
 <h2 align="center" style="margin-top: 40px; margin-bottom: 40px; border-bottom: none;">📊 GitHub Stats</h2>
