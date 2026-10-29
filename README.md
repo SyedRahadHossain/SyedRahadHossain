@@ -18,9 +18,9 @@
 <br/>
 
 <!-- ============ ABOUT ============ -->
-<h2 align="" style="border:none"><img src="assets/sh-logo.png" width="60" align="center" alt="SH logo" /> About Me</h2>
+<h3><img src="assets/sh-logo.png" width="60" align="center" alt="SH logo" /> About Me</h3>
 
-<div align="">
+<div>
 
 🌐 I build fast, responsive websites and full-stack web apps<br/>
 🎨 I design interfaces in Figma before writing a line of code<br/>
@@ -32,13 +32,12 @@
 
 <br/>
 
-<p align="left"> <img  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="3" /></p>
+<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="3" /></p>
 
 <!-- ============ TECH STACK ============ -->
+<h3>🛠️ Tech Stack</h3>
 
-<h2 align="" style="border-bottom: none">🛠️ Tech Stack</h2>
-
-<p align="">
+<p>
   <b>Languages</b><br/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -46,7 +45,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-<p align="">
+<p>
   <b>Frontend &amp; UI</b><br/><br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -57,14 +56,14 @@
   <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI"/>
 </p>
 
-<p align="">
+<p>
   <b>Backend &amp; Authentication</b><br/><br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Better_Auth-333333?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth"/>
 </p>
 
-<p align="">
+<p>
   <b>Databases &amp; ORM</b><br/><br/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -74,7 +73,7 @@
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon"/>
 </p>
 
-<p align="">
+<p>
   <b>Agentic Development</b><br/><br/>
   <img src="https://img.shields.io/badge/Agentic_Coding-303030?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Agentic Coding"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
@@ -83,7 +82,7 @@
   <img src="https://img.shields.io/badge/Context_Engineering-0F766E?style=for-the-badge&logo=googledocs&logoColor=white" alt="Context Engineering"/>
 </p>
 
-<p align="">
+<p>
   <b>Deployment &amp; Tools</b><br/><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -92,14 +91,11 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="3" />
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="3">
-
-<!-- ============ STATS ============ -->
-<h2 align="center" style="margin-top: 40px; margin-bottom: 40px; border-bottom: none;">📊 GitHub Stats</h2>
 <!-- ============ GITHUB STATS ============ -->
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
   <img height="180" src="https://github-stats-extended.vercel.app/api?username=syedrahadhossain&show_icons=true&count_private=true&bg_color=151515&title_color=EDE494&text_color=D8D0B0&icon_color=B99758&border_color=B99758&ring_color=D0C080" alt="GitHub stats" />
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=syedrahadhossain&layout=compact&bg_color=151515&title_color=EDE494&text_color=D8D0B0&border_color=B99758" alt="Top languages" />
@@ -114,77 +110,26 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="3" />
 
 <!-- ============ PROJECTS ============ -->
-<h1 align="center"  style="margin-top: 40px; margin-bottom: 40px; border-bottom: none;" >🚀 Featured Projects</h1>
+<h3 align="center">🚀 Featured Projects</h3>
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/syedrahadhossain/skillBridge-client">
-        <img  src="assets/project-skillbridge.svg" width="100%" alt="SkillBridge — tutoring platform" />
-      </a>
-      <p>
-        <a href="https://skillbridge-grow.vercel.app/">
-          <img src="assets/btn-live.svg" width="120" alt="Live Demo" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/syedrahadhossain/skillBridge-client">
-          <img src="assets/btn-code.svg" width="120" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/syedrahadhossain/FundFlow">
-        <img src="assets/project-fundflow.svg" width="100%" alt="FundFlow — crowdfunding platform" />
-      </a>
-      <p>
-        <a href="https://fundflow-client-wine.vercel.app">
-          <img src="assets/btn-live.svg" width="120" alt="Live Demo" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/syedrahadhossain/FundFlow">
-          <img src="assets/btn-code.svg" width="120" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/SyedRahadHossain/speed-client-side">
-        <img height="" src="assets/project-speed.svg" width="100%" alt="Speed — web project" />
-      </a>
-      <p>
-        <a href="https://speed-76716.web.app/">
-          <img src="assets/btn-live.svg" width="120" alt="Live Demo" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/SyedRahadHossain/speed-client-side">
-          <img src="assets/btn-code.svg" width="120" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <a href="https://github.com/SyedRahadHossain/supernova-health-check">
-        <img src="assets/project-supernova.svg" width="100%" alt="Supernova Health Check" />
-      </a>
-      <p>
-        <a href="https://supernova-health-check.web.app/">
-          <img src="assets/btn-live.svg" width="120" alt="Live Demo" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/SyedRahadHossain/supernova-health-check">
-          <img src="assets/btn-code.svg" width="120" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/syedrahadhossain/skillBridge-client"><img src="assets/project-skillbridge.svg" width="48%" alt="SkillBridge: tutoring platform" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/syedrahadhossain/FundFlow"><img src="assets/project-fundflow.svg" width="48%" alt="FundFlow: crowdfunding platform" /></a><br/>
+<a href="https://skillbridge-grow.vercel.app/"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of SkillBridge" /></a> <a href="https://github.com/syedrahadhossain/skillBridge-client"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of SkillBridge" /></a>&nbsp;&nbsp;&nbsp;<a href="https://fundflow-client-wine.vercel.app"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of FundFlow" /></a> <a href="https://github.com/syedrahadhossain/FundFlow"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of FundFlow" /></a>
+
+<br/>
+
+<a href="https://github.com/SyedRahadHossain/speed-client-side"><img src="assets/project-speed.svg" width="48%" alt="Speed: car shop website" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/SyedRahadHossain/supernova-health-check"><img src="assets/project-supernova.svg" width="48%" alt="Supernova Health Check: diagnostic center website" /></a><br/>
+<a href="https://speed-76716.web.app/"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of Speed" /></a> <a href="https://github.com/SyedRahadHossain/speed-client-side"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of Speed" /></a>&nbsp;&nbsp;&nbsp;<a href="https://supernova-health-check.web.app/"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of Supernova Health Check" /></a> <a href="https://github.com/SyedRahadHossain/supernova-health-check"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of Supernova Health Check" /></a>
+
+</div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="100%" height="3" />
 
 <!-- ============ CONNECT ============ -->
-<h2 align="center" style="border-bottom: none;">🤝 Let's Connect</h2>
+<h3 align="center">🤝 Let's Connect</h3>
 
 <div align="center">
 
