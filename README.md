@@ -114,13 +114,43 @@
 
 <div align="center">
 
-<a href="https://github.com/syedrahadhossain/skillBridge-client"><img src="assets/project-skillbridge.svg" width="48%" alt="SkillBridge: tutoring platform" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/syedrahadhossain/FundFlow"><img src="assets/project-fundflow.svg" width="48%" alt="FundFlow: crowdfunding platform" /></a><br/>
-<a href="https://skillbridge-grow.vercel.app/"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of SkillBridge" /></a> <a href="https://github.com/syedrahadhossain/skillBridge-client"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of SkillBridge" /></a>&nbsp;&nbsp;&nbsp;<a href="https://fundflow-client-wine.vercel.app"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of FundFlow" /></a> <a href="https://github.com/syedrahadhossain/FundFlow"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of FundFlow" /></a>
+<a href="https://skillbridge-grow.vercel.app/"><img src="assets/project-skillbridge.svg" width="400" alt="SkillBridge: Tutoring platform. Find and book expert tutors; Search by subject, rating, price; Student, tutor, admin dashboards; Responsive, dark and light mode." /></a>
+<a href="https://skillbridge-grow.vercel.app/"><img src="assets/tech-skillbridge.svg" width="270" alt="SkillBridge tech stack: Next.js 15, TypeScript, Tailwind CSS, shadcn/ui, Better Auth." /></a>
+<br/>
+<a href="https://skillbridge-grow.vercel.app/"><img src="assets/btn-live.svg" width="150" alt="Live demo of SkillBridge" /></a>
+<a href="https://github.com/syedrahadhossain/skillBridge-client"><img src="assets/btn-code.svg" width="150" alt="Source code of SkillBridge" /></a>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="25%" height="3" />
 
 <br/>
 
-<a href="https://github.com/SyedRahadHossain/speed-client-side"><img src="assets/project-speed.svg" width="48%" alt="Speed: car shop website" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/SyedRahadHossain/supernova-health-check"><img src="assets/project-supernova.svg" width="48%" alt="Supernova Health Check: diagnostic center website" /></a><br/>
-<a href="https://speed-76716.web.app/"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of Speed" /></a> <a href="https://github.com/SyedRahadHossain/speed-client-side"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of Speed" /></a>&nbsp;&nbsp;&nbsp;<a href="https://supernova-health-check.web.app/"><img src="assets/btn-live-grid.svg" width="23.7%" alt="Live demo of Supernova Health Check" /></a> <a href="https://github.com/SyedRahadHossain/supernova-health-check"><img src="assets/btn-code-grid.svg" width="23.7%" alt="Source code of Supernova Health Check" /></a>
+<a href="https://fundflow-client-wine.vercel.app"><img src="assets/project-fundflow.svg" width="400" alt="FundFlow: Crowdfunding platform. Creators raise money with credits; Stripe checkout for credits; Creator, supporter, admin roles; API tested with Jest + Supertest." /></a>
+<a href="https://fundflow-client-wine.vercel.app"><img src="assets/tech-fundflow.svg" width="270" alt="FundFlow tech stack: Next.js 16, Tailwind CSS, Express, MongoDB, Firebase Auth, Stripe." /></a>
+<br/>
+<a href="https://fundflow-client-wine.vercel.app"><img src="assets/btn-live.svg" width="150" alt="Live demo of FundFlow" /></a>
+<a href="https://github.com/syedrahadhossain/FundFlow"><img src="assets/btn-code.svg" width="150" alt="Source code of FundFlow" /></a>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="25%" height="3" />
+
+<br/>
+
+<a href="https://speed-76716.web.app/"><img src="assets/project-speed.svg" width="400" alt="Speed: Car shop website. Browse and buy cars online; Google and email login; Place and manage your bookings; Admin tools for orders, products." /></a>
+<a href="https://speed-76716.web.app/"><img src="assets/tech-speed.svg" width="270" alt="Speed tech stack: React, React Bootstrap, React Router, Firebase Auth." /></a>
+<br/>
+
+<a href="https://speed-76716.web.app/"><img src="assets/btn-live.svg" width="150" alt="Live demo of Speed" /></a>
+<a href="https://github.com/SyedRahadHossain/speed-client-side"><img src="assets/btn-code.svg" width="150" alt="Source code of Speed" /></a>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B99758,50:EDE494,100:B99758" alt="" width="25%" height="3" />
+
+<br/>
+
+
+<a href="https://supernova-health-check.web.app/"><img src="assets/project-supernova.svg" width="400" alt="Supernova Health Check: Diagnostic center website. Diagnostic center website; Browse services, pick packages; Google and email login; Membership discounts on tests." /></a>
+<a href="https://supernova-health-check.web.app/"><img src="assets/tech-supernova.svg" width="270" alt="Supernova Health Check tech stack: React, React Bootstrap, React Router, Firebase Auth." /></a>
+<br/>
+<a href="https://supernova-health-check.web.app/"><img src="assets/btn-live.svg" width="150" alt="Live demo of Supernova Health Check" /></a>
+<a href="https://github.com/SyedRahadHossain/supernova-health-check"><img src="assets/btn-code.svg" width="150" alt="Source code of Supernova Health Check" /></a>
 
 </div>
 
