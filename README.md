@@ -23,7 +23,7 @@
 <div>
 
 🌐 I build fast, responsive websites and full-stack web apps<br/>
-🎨 I design interfaces in Figma before writing a line of code<br/>
+🎨 I care about clean and easy-to-use interfaces<br/>
 ⚙️ Full-stack with the **MERN stack** (MongoDB, Express, React, Node.js)<br/>
 ▲ Also building with **Next.js + Prisma + PostgreSQL**<br/>
 📫 Reach me at **syedrahadhossain@hotmail.com**
